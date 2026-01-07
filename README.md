@@ -29,7 +29,7 @@ retrieval-augmented-generation/
 
 ## Projects
 
-### 🏥 Healthcare Multimodal RAG
+###  Healthcare Multimodal RAG
 
 **Domain:** Healthcare / Nutrition / Medical knowledge  
 **Focus:** Multimodal retrieval, reranking, query expansion, grounded responses
@@ -42,12 +42,12 @@ Key features:
 - Cross-encoder reranking (MS MARCO) for improved precision
 - Multimodal outputs (text answers + relevant images)
 
-📁 Located in: `healthcare-rag/`  
-📄 See project-specific README for full details.
+ Located in: `healthcare-rag/`  
+ See project-specific README for full details.
 
 ---
 
-### 💼 Salesforce CRM RAG Q&A Assistant
+###  Salesforce CRM RAG Q&A Assistant
 
 **Domain:** Enterprise / CRM / Sales enablement  
 **Focus:** Grounded Q&A with explicit evaluation metrics
@@ -64,8 +64,8 @@ Key features:
   - Context Recall
 - Designed for internal business documentation and enablement use cases
 
-📁 Located in: `salesforce-QA-assistant/`  
-📄 See project-specific README for full details.
+Located in: `salesforce-QA-assistant/`  
+See project-specific README for full details.
 
 ---
 
